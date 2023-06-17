@@ -1,0 +1,167 @@
+
+IDEAS:
+Para crear o reunir varios conjuntos de datos sobre felicidad para un estudio basado en análisis de datos, puedes seguir los siguientes pasos:
+
+
+Para crear o reunir varios conjuntos de datos sobre felicidad para un estudio basado en análisis de datos, puedes seguir los siguientes pasos:
+
+Identifica fuentes confiables y gratuitas de datos sobre felicidad. Algunas opciones son:
+
+Informes de Felicidad Mundial de la Organización de las Naciones Unidas (ONU): El World Happiness Report es una fuente importante de datos sobre felicidad a nivel mundial. Puedes encontrar informes anteriores en Kaggle[1] y aquí[2].
+Encuestas nacionales: Muchos países realizan encuestas de felicidad a nivel nacional. Puedes buscar los sitios web de instituciones gubernamentales o estadísticas de cada país para acceder a estos datos.
+Plataformas de datos abiertos: Existen plataformas en línea que ofrecen conjuntos de datos abiertos sobre diversos temas, incluida la felicidad. Algunas opciones son Data.gov, Open Data Soft, y el repositorio de datos abiertos de tu país.
+Explora los conjuntos de datos disponibles y evalúa su calidad y relevancia para tu estudio. Asegúrate de revisar las descripciones de los conjuntos de datos, las variables incluidas y las fuentes para comprender la metodología utilizada.
+
+Descarga los conjuntos de datos que sean relevantes para tu estudio y que cumplan con tus criterios de calidad.
+
+Limpia y prepara los datos. Esto implica realizar tareas como eliminar valores atípicos, manejar datos faltantes y transformar variables si es necesario. Puedes utilizar herramientas como Python con las bibliotecas pandas y numpy para realizar estas tareas.
+
+Una vez que hayas reunido y preparado los conjuntos de datos, puedes abordar diversos temas en tu tesis basada en análisis de datos sobre felicidad. Algunas ideas podrían incluir:
+
+Factores determinantes de la felicidad: Examina las variables que se correlacionan con la felicidad, como el ingreso, la salud, el nivel educativo, el empleo, el acceso a servicios básicos, etc.
+
+Análisis geográfico de la felicidad: Compara los niveles de felicidad entre diferentes regiones, países o ciudades y explora posibles explicaciones de las diferencias encontradas.
+
+Cambios en la felicidad a lo largo del tiempo: Estudia las tendencias en los niveles de felicidad a lo largo de los años y analiza los factores socioeconómicos o políticos que podrían influir en esos cambios.
+
+Impacto de políticas públicas en la felicidad: Evalúa el impacto de intervenciones o políticas específicas en el bienestar y la felicidad de las personas.
+
+Recuerda citar adecuadamente las fuentes de los conjuntos de datos utilizados, así como cualquier referencia adicional o metodología aplicada en tu estudio.
+
+Espero que esta información te sea útil. ¡Buena suerte con tu tesis!
+
+
+Kaggle: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021
+https://www.kaggle.com/datasets/norask8/hapiness
+
+
+
+
+
+
+
+
+# Fuentes de informaciones
+- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.uoc.edu/bitstream/10609/98886/7/mjimboTFM0319memoria.pdf
+- https://datosmacro.expansion.com/demografia/indice-felicidad
+
+Otras fuentes:
+World Happiness Report (Informe Mundial de Felicidad): El Informe Mundial de Felicidad es un informe anual publicado por la Red de Soluciones para el Desarrollo Sostenible de las Naciones Unidas. Proporciona datos y análisis sobre la felicidad y el bienestar en diferentes países del mundo. Puedes acceder a los datasets utilizados en el informe a través de su página web oficial.
+
+Gallup World Poll (Encuesta Mundial de Gallup): Gallup es una empresa de investigación de mercado que lleva a cabo la Encuesta Mundial de Gallup para medir la felicidad y el bienestar en todo el mundo. Proporcionan datasets sobre diferentes aspectos relacionados con la felicidad, como la satisfacción con la vida, la salud, el empleo, entre otros. Puedes encontrar más información y acceder a los datasets en su página web .
+
+Eurostat: Eurostat es la oficina de estadísticas de la Unión Europea. Proporcionan una amplia gama de datos estadísticos, incluidos aquellos relacionados con la felicidad y el bienestar. Puedes explorar su base de datos en línea y buscar indicadores relevantes sobre felicidad. Puedes acceder a Eurostat a través de su sitio web oficial .
+https://ec.europa.eu/eurostat
+
+INEN ESPAÑA: En la web del Instituto Nacional de Estadística (INE) de España, específicamente en el apartado de la Encuesta de Condiciones de Vida, se incluye un módulo adicional sobre Bienestar que investiga aspectos destacados de las condiciones de vida de los hogares. Este módulo recopila información sobre la valoración subjetiva de las personas entrevistadas en relación a diferentes dimensiones de su calidad de vida, incluyendo la felicidad. En dicho módulo se encuentra una pregunta relacionada con los sentimientos de las últimas cuatro semanas, específicamente sobre la frecuencia con la que las personas se han sentido felices. Las respuestas se agrupan en diferentes categorías: "Muy a menudo" (siempre, casi siempre), "Alguna vez" (algunas veces, solo alguna vez) y "Nunca" [1].
+
+A nivel nacional, según los datos recogidos en el Módulo sobre Bienestar 2018 de la Encuesta de Condiciones de Vida, el 71,5% de las personas de 16 años o más se siente feliz muy a menudo, el 26,7% se siente feliz alguna vez y el 1,9% nunca se ha sentido feliz en las últimas cuatro semanas. También se proporciona información sobre la felicidad en diferentes ámbitos geográficos, como las comunidades autónomas de España. En este sentido, los porcentajes más altos de personas que se han sentido felices muy a menudo corresponden a Ceuta (92,0%) y Aragón (84,8%), mientras que los porcentajes más altos de personas que se han sentido felices alguna vez corresponden a País Vasco (40,4%) y Castilla-La Mancha (37,3%) [1].
+
+Además, el INE también recopila indicadores de calidad de vida que pueden tener influencia en el bienestar y la felicidad de las personas. Por ejemplo, se considera el tiempo de ocio disponible, la participación en eventos culturales y deportivos, así como la satisfacción con el tiempo disponible como aspectos relacionados con el ocio. También se analizan las relaciones sociales, incluyendo indicadores como la frecuencia de reuniones con amigos, la satisfacción con las relaciones personales y la confianza en los demás [2].
+
+En cuanto al informe mundial de la felicidad, publicado por la Red de Soluciones para el Desarrollo Sostenible (SDSN) en 2021, España subió tres p
+
+https://www.ine.es/ss/Satellite?param1=PYSDetalleFichaIndicador&c=INESeccion_C&param3=1259937499084&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout&cid=1259949492330
+
+Indicadores de Calidad de Vida
+https://www.ine.es/ss/Satellite?c=INEPublicacion_C&cid=1259937499084&p=1254735110672&pagename=ProductosYServicios%2FPYSLayout&param1=PYSDetalleGratuitas&param2=1259944522500
+
+
+ Indicadores por dimensiones (Publicado: 20 octubre 2022)
+
+1. Condiciones materiales de vida
+2. Trabajo
+3. Salud
+4. Educación
+5. Ocio y relaciones sociales
+6. Seguridad física y personal
+7. Gobernanza y derechos básicos
+8. Entorno y medioambiente
+9. Experiencia general de la vida
+
+Encuestas de condiciones de vida. Modulo año 2013
+https://www.ine.es/dynt3/inebase/index.htm?type=pcaxis&path=/t25/p453/modulo/2013/&file=pcaxis&L=0
+
+CSV : https://www.ine.es/jaxi/Datos.htm?path=/t25/p453/modulo/2013/l0/&file=01001.px
+
+Datos abiertos: https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259942408928&p=1259942408928&pagename=ProductosYServicios%2FPYSLayout
+
+https://datos.gob.es/es/catalogo?q=microdatos&publisher_display_name=Instituto+Nacional+de+Estad%C3%ADstica&sort=metadata_modified+desc&page=1
+
+Encuesta de Condiciones de vida. Ficheros transversales. Microdatos
+https://datos.gob.es/es/catalogo/ea0010587-encuesta-de-condiciones-de-vida-ficheros-transversales-microdatos
+
+Calidad de vida: Muy  buena
+https://www.ine.es/dynt3/inebase/es/index.htm?padre=9739
+
+https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176818&menu=resultados&secc=1254736195142&idp=1254735976608
+
+https://datos.gob.es/es/catalogo/ea0010587-panel-de-hogares-de-la-ue-datos-de-espana-microdatos
+
+Última Nota de prensa
+Encuesta de condiciones de vida. Año 2022
+El porcentaje de población en riesgo de pobreza o exclusión social disminuyó hasta el 26,0%, desde el 27,8% de 2021. El 7,7 % de la población se encontraba en situación de carencia material y social severa, frente al 8,3% del año anterior.
+mio: https://datos.gob.es/es/catalogo?tags_es=Tiempo
+
+https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176807&menu=ultiDatos&idp=1254735976608
+
+Informe Mundial de la Felicidad 2021
+El Informe Mundial de la Felicidad 2021 se centra en los efectos del COVID-19 y cómo les ha ido a las personas de todo el mundo. Nuestro objetivo era doble: primero, centrarnos en los efectos del COVID-19 en la estructura y la calidad de vida de las personas, y segundo, describir y evaluar cómo los gobiernos de todo el mundo han enfrentado la pandemia. En particular, tratamos de explicar por qué algunos países lo han hecho mucho mejor que otros.
+
+https://worldhappiness.report/ed/2021/
+
+https://www.ine.es/dynt3/inebase/index.htm?type=pcaxis&path=/t25/p453/modulo/2013/&file=pcaxis&L=0
+
+
+
+
+Aquí hay algunos conjuntos de datos populares de Kaggle relacionados con la felicidad:
+
+
+World Happiness Report: Este conjunto de datos contiene información sobre la clasificación de la felicidad de diferentes 
+países y regiones, junto con varios factores que influyen en la felicidad, como el PIB per cápita, la esperanza de vida, la libertad, la corrupción, entre otros.
+
+Gallup World Poll: Este conjunto de datos se basa en una encuesta mundial realizada por Gallup para medir la felicidad y el bienestar de las personas en diferentes países. Contiene información sobre diversos aspectos de la vida, como la satisfacción con la vida, las emociones positivas y negativas, las relaciones personales y el empleo.
+
+HappyDB: Este conjunto de datos contiene una recopilación de "microhistorias" escritas por personas sobre momentos felices en sus vidas. Las historias fueron recopiladas a través de la plataforma HappyDB, donde los usuarios compartieron experiencias personales de felicidad.
+
+OECD Better Life Index: Este conjunto de datos proporciona una visión general del bienestar y la calidad de vida en los países miembros de la Organización para la Cooperación y el Desarrollo Económicos (OCDE). Incluye indicadores sobre diversos temas, como el ingreso, la educación, la salud, el equilibrio entre el trabajo y la vida personal, la participación cívica, entre otros.
+
+Suicides Rates Overview: Aunque no se trata específicamente de la felicidad, este conjunto de datos contiene información sobre las tasas de suicidio en diferentes países y regiones, junto con variables socioeconómicas y demográficas. El suicidio es un fenómeno complejo que se relaciona con la salud mental y el bienestar, y puede proporcionar perspectivas sobre los factores que afectan la felicidad y el bienestar en una sociedad.
+
+
+Recuerda revisar los términos y condiciones de uso de cada conjunto de datos, así como los requisitos de atribución si los hubiera. Además, ten en cuenta que la disponibilidad y la popularidad de los conjuntos de datos pueden cambiar con el tiempo, por lo que siempre es recomendable explorar Kaggle para encontrar las últimas opciones y descubrir nuevos conjuntos de datos relevantes sobre la felicidad.
+
+
+
+INTERESANTEEEE
+https://www.kaggle.com/code/cesarys/world-happines-an-lisis-sobre-la-felicidad/notebook
+World Happines - Análisis sobre la felicidad
+Python · World Happiness Report
+
+https://rstudio-pubs-static.s3.amazonaws.com/887738_141adb7b66854d2092a76209bd711373.html
+https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021?resource=download
+https://www.kaggle.com/code/mehulpatole31/eda-and-visualization-world-happiness
+https://www.kaggle.com/code/kaaliya/happiness-report-eda-visualizations
+
+
+El objetivo principal de este proyecto es descubrir los factores clave que contribuyen a la felicidad de las personas. 
+
+Los datos utilizados en el desarrollo del proyecto se obtuvieron de encuestas históricas correspondientes a los años 2015, 2016 y 2017. 
+
+Se identificaron seis factores principales presentes en cada uno de los conjuntos de datos, los cuales se utilizan para evaluar la felicidad en cada país. 
+
+Estos factores son: producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad.
+
+Para analizar los datos del informe, se emplearon técnicas de machine learning y minería de datos, y se desarrolló la programación utilizando el lenguaje Python. Se utilizaron diversas bibliotecas, como Pandas, Matplotlib, Seaborn, entre otras [[1](https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/global_happiness_2020_survey_es.pdf)].
+
+Según los resultados obtenidos, se llegó a las siguientes conclusiones o respuestas a las preguntas clave planteadas:
+
+1. ¿Cuáles son los principales factores que contribuyen a la felicidad?
+   Los seis principales factores que se identificaron y que sirven para evaluar la felicidad en cada país son: producción económica, apoyo social, esperanza de vida, libertad, ausencia de corrupción y generosidad.
+
+2. ¿Existen diferencias importantes en dichos factores en España (o entre países)?
+   En el informe no se especifican las diferencias encontradas en los factores de felicidad específicamente para España o entre países. Sería necesario realizar un análisis más detallado de los datos para obtener información precisa sobre estas diferencias.
+
+3. ¿Existen diferencias en la felicidad en los tres años?
+   No se proporciona información específica en el informe sobre las diferencias en la felicidad a lo largo de los tres años analizados (2015, 2016 y 2017). Para obtener datos actualizados y específicos sobre las diferencias en la felicidad a lo largo del tiempo, se recomienda consultar fuentes actualizadas y estudios relacionados con el índice de felicidad mundial [[2](https://datosmacro.expansion.com/demografia/indice-felicidad)].
