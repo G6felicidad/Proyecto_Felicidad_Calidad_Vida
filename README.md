@@ -34,7 +34,8 @@
 #### Defiición del lenguaje Python
 
 ## Resultados 
-### Presentación del modelo de minería de datos
+### Presentación del modelo de calidad de vida según datos.
+i
 ### Presentación, análisis de datos y resultados
 
 ## Conclusiones
